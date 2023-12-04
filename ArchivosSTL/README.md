@@ -1,7 +1,6 @@
 Se recomienda estos parámetros en CURA:
 Infill:
     ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/e5be18fc-9bc4-4ea1-b1dc-9fad742044b2)
-
 Supports:
     ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/91ad948b-5e51-4c56-9103-b4687667d5fe)
 
