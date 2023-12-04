@@ -18,7 +18,6 @@ Para el montaje de la estructura se necesitarán los siguientes tornillos y tuer
     -2 tornillos M3 25 mm con tuerca
     -4 tornillos M4 20mm con arandela y tuerca
     
-Se ha utilizado material PLA extruyendo a **220º** de extrusor y **60º** de cama. Al principio de la impresión se recomienda desactivar el ventilador del extrusor y cuando ya se hayan colocado las capas del "suelo" se procede a poner el ventilador al 100%
 
 
                 
