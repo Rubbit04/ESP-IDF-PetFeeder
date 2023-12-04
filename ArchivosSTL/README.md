@@ -18,6 +18,7 @@ Para el montaje de la estructura se necesitarán los siguientes tornillos y tuer
     -2 tornillos M3 25 mm con tuerca
     -4 tornillos M4 20mm con arandela y tuerca
     
+![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/e14026db-330f-4892-a966-ee8c3ca87fef)
 
 
                 
