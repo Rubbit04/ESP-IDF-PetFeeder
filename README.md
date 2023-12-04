@@ -8,9 +8,17 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
 
 Funcionalidades:
  
-- Reconocimiento de animales vía NFC
+- Reconocimiento de animales vía NFC.
+  
+  ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/b532caab-2fc7-4f04-b86b-6eedefc366ad)
+
 - Identificación del nivel de alimentos en el tanque en una pantalla integrada.
-- Página web en la que se mostrará el nivel de comida y varias opciones de gramos de comida a dispensar.![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/6403a5ca-55d1-4869-9b1a-781f5f5393eb)
+
+  ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/0b91f228-61ba-43f5-bda5-b3edb261d7d1)
+
+- Página web en la que se mostrará el nivel de comida y varias opciones de gramos de comida a dispensar.
+
+  ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/6403a5ca-55d1-4869-9b1a-781f5f5393eb)
 
 - Control de alimentación permitiendo la expulsión de la comida solo si el animal no ha ido a comer en un plazo determinado (control de obesidad).
 - LED identificativo del nivel de comida.
