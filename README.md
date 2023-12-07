@@ -21,7 +21,6 @@ Funcionalidades:
   ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/6403a5ca-55d1-4869-9b1a-781f5f5393eb)
 
 - Control de alimentación permitiendo la expulsión de la comida solo si el animal no ha ido a comer en un plazo determinado (control de obesidad).
-- LED identificativo del nivel de comida.
 - Botón físico para la expulsión de comida (en caso de no utilizar la página web)
 
 
