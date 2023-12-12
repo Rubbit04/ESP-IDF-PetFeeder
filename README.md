@@ -32,4 +32,11 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
 
 
 
+<div align="left">
+  <h3> Lenguajes y Herramientas:</h3>
+  <div>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <div>
+<div>
+
 *Proyecto Realizado en la Universidad Politécnica de Madrid, Asignatura Sistemas Basados en Computador Grupo CIT-22*
