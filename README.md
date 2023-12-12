@@ -45,5 +45,5 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
   <div>
 <div>
 
-*Proyecto Realizado en la Universidad Politécnica de Madrid, Asignatura Sistemas Basados en Computador Grupo CIT-22*
+*Proyecto Realizado en la Universidad Politécnica de Madrid, **Asignatura** Sistemas Basados en Computador **Grupo** CIT-22*
 
