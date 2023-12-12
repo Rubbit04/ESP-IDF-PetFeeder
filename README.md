@@ -38,7 +38,7 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-       <img src="![espressif](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/4079084d-08b9-42a5-9f5d-7029a5f72503)" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/4079084d-08b9-42a5-9f5d-7029a5f72503" title="Espressif" alt="Espressif" width="40" height="40"/>&nbsp;
   <div>
 <div>
 
