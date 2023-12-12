@@ -12,7 +12,7 @@ Supports:
 ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/91ad948b-5e51-4c56-9103-b4687667d5fe)
 
 
-Se ha utilizado material PLA extruyendo a **220º** de extrusor y **75º** de cama. Al principio de la impresión se recomienda desactivar el ventilador del extrusor y cuando ya se hayan colocado las capas del "suelo" se procede a poner el ventilador al 100%
+Se ha utilizado material PLA extruyendo a **220º** de extrusor y **75º** de cama. Al principio de la impresión se recomienda desactivar el ventilador del extrusor y cuando ya se hayan colocado las primeras capas se procede a activar el ventilador al 100%
 
 Horas de impresión aproximadas: **40 horas.**
 
