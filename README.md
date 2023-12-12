@@ -36,7 +36,7 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
   <h3> Lenguajes y Herramientas:</h3>
   <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-       <img src="(https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <div>
 <div>
 
