@@ -4,7 +4,8 @@ En este proyecto se fabricará un Dispensador de Animales con diferentes funcion
 En este repositorio se proporcionará tanto el código para la carga al ESP32 como los fichero STL para la impresión de la estructura encargada de dispensar los alimentos que deseemos.
 
 
-![photo_2023-12-04_11-09-42](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/711dc721-b3f1-48a5-8e7b-65987319830f)
+![4b2b8ac4-7a4b-4b1f-8376-08500d30d8f4](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/13ed43f2-8bb1-4d33-91d4-e9e6d24479e3)
+
 
 
 Funcionalidades:
