@@ -25,4 +25,4 @@ Funcionalidades:
 
 
 
-*Proyecto Realizado en la Universidad Politécnica de Madrid, Asignatura Sistemas Basados en Computador*
+*Proyecto Realizado en la Universidad Politécnica de Madrid, Asignatura Sistemas Basados en Computador Grupo CIT-22*
