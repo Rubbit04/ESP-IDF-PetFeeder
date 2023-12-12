@@ -8,3 +8,5 @@ Es importante cambiar los datos en el *sdfconfig* apartado Example Configuration
 Para saber la ip a la cual nos tenemos que conectar con el navegador es necesario compilar y ejecutar el programa, nada más iniciar se indicará si se ha conectado correctamente a la red o no. Si se ha conectado, lo siguiete se saldrá por el terminal es la dirección IP que el router ha asignado al ESP32 y por tanto será esa IP la cual se tiene que introducir en el navegador.
 
 ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/8aa65a20-f3aa-4a4f-8186-85ebcce8f524)
+
+Como se puede observar en la imágen, se ha asignado la dirección IP 192.168.1.143 la cual se tiene que introducir en el navegador ya mostrándose la página web diseñada.
