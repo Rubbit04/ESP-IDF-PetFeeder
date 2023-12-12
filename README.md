@@ -1,4 +1,5 @@
-# ESP-IDF-PetFeeder
+# Sistema de Comedero Inteligente para Animales -SCIA
+*ETSI Sistemas Informáticos Universidad Politécnica de Madrid*
 En este proyecto se fabricará un Dispensador de Animales con diferentes funcionalidades.
 En este repositorio se proporcionará tanto el código para la carga al ESP32 como los fichero STL para la impresión de la estructura encargada de dispensar los alimentos que deseemos.
 
