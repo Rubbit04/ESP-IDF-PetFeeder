@@ -19,7 +19,6 @@ Funcionalidades:
   ![HC-SR04-300x194](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/ee733d35-c13e-4804-b8f8-85b3d2822b74)
 
 - Mostración de información del tanque en una pantalla integrada.
-
    ![image](https://github.com/Rubbit04/ESP-IDF-PetFeeder/assets/73599929/0b91f228-61ba-43f5-bda5-b3edb261d7d1)
 
 - Página web en la que se mostrará el nivel de comida y varias opciones de tiempos de comida a dispensar.
