@@ -30,13 +30,14 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
 - Control de alimentación permitiendo la expulsión de la comida solo si el animal no ha ido a comer en un plazo determinado (control de obesidad).
 - Botón físico para la expulsión de comida (en caso de no utilizar la página web)
 
-
+https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
 
 <div align="left">
   <h3> Lenguajes y Herramientas:</h3>
   <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <div>
 <div>
 
