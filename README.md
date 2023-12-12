@@ -8,7 +8,7 @@ En este repositorio se proporcionará tanto el código para la carga al ESP32 co
 
 
 
-Funcionalidades:
+**Funcionalidades**:
  
 - Reconocimiento de animales vía NFC.
   
